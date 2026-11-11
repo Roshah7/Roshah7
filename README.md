@@ -47,19 +47,6 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roshah7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Roshah7's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshah7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshah7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,0&height=100&section=footer" width="100%" />
 </p>
